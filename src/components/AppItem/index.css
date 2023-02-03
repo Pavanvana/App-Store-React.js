@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.app-logo {
+  width: 50%;
+}
+.app-card {
+  background-color: #ffffff;
+  border-radius: 17px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 130px;
+  width: 130px;
+}
+.app-name {
+  color: #1e293b;
+  font-family: Bree Serif;
+  font-size: 15px;
+}
